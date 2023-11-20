@@ -8,8 +8,6 @@ Dla każdego! Nie musisz mieć żadnego doświadczenia z prowadzeniem zdrowego t
 
 
 Oczywiście, aplikacja jest również idealną opcją dla osób, prowadzących zdrowy i aktywny styl życia na co dzień, dla których Count IT będzie oferowało szeroką gamę udogodnień, takich jak:
-konsultacje z dietetykami i trenerami personalnymi
-wyliczanie odpowiedniej ilości kalorii do spożycia na podstawie masy i składu ciała
-przygotowanie zestawienia przyswojonych składników odżywczych w spożytych posiłkach
+konsultacje z dietetykami i trenerami personalnymi, wyliczanie odpowiedniej ilości kalorii do spożycia na podstawie masy i składu ciała, przygotowanie zestawienia przyswojonych składników odżywczych w spożytych posiłkach
 
 ### _Wybierz Count IT i dbaj o swoje zdrowie, bo jeśli to zrobisz, będziesz mógł zrobić wszystko inne!_
